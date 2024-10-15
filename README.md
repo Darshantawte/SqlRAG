@@ -1,5 +1,5 @@
 # SqlRAG
-build an end to end langchain based SQL database RAG tool using Tools &amp; Agents functionality, GroqAI and deployed on streamlit
+build an end to end langchain based SQL database RAG tool using Tools &amp; Agents functionality, GroqAI and deployed on streamlit.
 
 <img width="944" alt="1" src="https://github.com/user-attachments/assets/eda4787b-2e66-49e4-9dcc-d866e63d8be2">
 
