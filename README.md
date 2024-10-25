@@ -1,5 +1,5 @@
 # SqlRAG
-build an end to end langchain based SQL database RAG tool using Tools &amp; Agents functionality GroqAI and deployed on streamlit.
+Built an end to end Langchain based SQL database RAG tool using Tools &amp; Agents functionality GroqAI and deployed on streamlit.
 
 Functionality:
 You can connect sqllite3 or MYSQLdb instance on your machine and provide simple text(NLP) to perform SQL queries on the database instance rather than running them manually.
